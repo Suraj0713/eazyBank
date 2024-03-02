@@ -1,10 +1,10 @@
-package com.suraj.springsecuritybasic;
+package com.suraj.eazybank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class InventoryManagement1ApplicationTests {
+class EazyBankApplicationTest {
 
 	@Test
 	void contextLoads() {
